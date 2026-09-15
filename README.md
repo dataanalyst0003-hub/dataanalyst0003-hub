@@ -2,89 +2,131 @@
 
 ### 📊 Data Analyst | Business Analyst | Business Intelligence
 
-> Turning data into insights, insights into decisions, and decisions into business value.
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Business%20Analysis-2E7D32?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Business%20Intelligence-6A1B9A?style=for-the-badge&logo=powerbi&logoColor=white"/>
+</p>
 
-I am an aspiring **Data Analyst and Business Analyst** focused on using data to understand business problems, discover insights, and support data-driven decision-making.
+I am an aspiring **Data Analyst and Business Analyst** passionate about transforming raw data into actionable business insights.
 
-I work with **Python, SQL, Power BI, Excel, Statistics, Machine Learning, and Time Series Forecasting** to clean, analyze, visualize, and communicate data effectively.
-
----
-
-## 👨‍💻 About Me
-
-🎓 B.Tech in Computer Science Engineering
-
-📊 Interested in **Data Analytics, Business Analysis & Business Intelligence**
-
-🐍 Python for data analysis and visualization
-
-🗄️ SQL for data extraction, transformation and business analysis
-
-📈 Power BI & Excel for interactive dashboards and reporting
-
-📐 Statistics for understanding patterns and relationships in data
-
-🤖 Machine Learning for predictive analytics
-
-🔮 Time Series Forecasting for future trend analysis
-
-🧠 Exploring Prompt Engineering and AI-assisted analytics
-
-💻 Learning Claude Code for AI-assisted development and productivity
-
-💼 Open to **Data Analyst | Business Analyst | BI Analyst** opportunities
+I work with **Python, SQL, Power BI, Excel, Statistics, Machine Learning, and Time Series Forecasting** to clean, analyze, visualize, and interpret data for better business decision-making.
 
 ---
 
-# 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-### 🐍 Python & Data Analysis
+- 🎓 B.Tech in Computer Science Engineering
+- 📊 Data Analytics & Business Analysis
+- 🐍 Python for Data Analysis
+- 🗄️ SQL & Database Analysis
+- 📈 Power BI & Excel Dashboard Development
+- 📊 Data Visualization & Business Intelligence
+- 📐 Statistics & Statistical Analysis
+- 🤖 Machine Learning
+- 🔮 Time Series Forecasting
+- 🧠 Prompt Engineering
+- 💻 Claude Code & AI-Assisted Development
+- 💡 Business Problem Solving & Data-Driven Decision Making
+- 💼 Open to Data Analyst, Business Analyst & BI Analyst opportunities
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+---
+
+# 🛠️ Technical Skills
+
+## 🐍 Python & Data Analysis
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=pandas" height="45"/>
+  <img src="https://skillicons.dev/icons?i=numpy" height="45"/>
+</p>
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-**Focus:** Data Cleaning · EDA · Data Transformation · Visualization · Statistical Analysis
+**Skills:**  
+Data Cleaning · EDA · Data Transformation · Data Visualization · Statistical Analysis
 
 ---
 
-### 🗄️ SQL & Databases
+## 🗄️ SQL & Databases
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" height="45"/>
+</p>
 
-**Focus:** Joins · CTEs · Subqueries · Window Functions · Aggregations · Data Cleaning · Business Analysis · Query Optimization
+![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge)
 
----
+**Skills:**
 
-### 📊 Business Intelligence & Visualization
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-**Focus:** KPI Dashboards · DAX · Power Query · Data Modeling · PivotTables · Advanced Excel · Data Storytelling
+`SELECT` · `WHERE` · `GROUP BY` · `HAVING` · `JOINS` · `SUBQUERIES` · `CTEs` · `WINDOW FUNCTIONS` · `AGGREGATIONS` · `DATE FUNCTIONS` · `STRING FUNCTIONS` · `DATA CLEANING` · `QUERY OPTIMIZATION`
 
 ---
 
-### 🤖 Machine Learning & Forecasting
+## 📊 Business Intelligence & Visualization
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-4B8BBE?style=for-the-badge)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=powerbi" height="45"/>
+  <img src="https://skillicons.dev/icons?i=tableau" height="45"/>
+  <img src="https://skillicons.dev/icons?i=excel" height="45"/>
+</p>
 
-**Focus:** Regression · Classification · Feature Engineering · Model Evaluation · Time Series · Trend · Seasonality · Forecasting
+**Power BI**
+
+`DAX` · `Power Query` · `Data Modeling` · `KPI Dashboards` · `Interactive Reports` · `Business Insights`
+
+**Excel**
+
+`PivotTables` · `VLOOKUP` · `Advanced Formulas` · `Conditional Formatting` · `Charts` · `Dashboard Development`
+
+**Tableau**
+
+`Data Visualization` · `Interactive Dashboards` · `Data Storytelling`
 
 ---
 
-### 🧠 AI & Development
+## 📐 Statistics
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  📊 Descriptive Statistics &nbsp;
+  📈 Inferential Statistics &nbsp;
+  🎲 Probability &nbsp;
+  🧪 Hypothesis Testing
+</p>
 
-**Exploring:** Prompt Engineering · AI-Assisted Analytics · Claude Code · AI-Assisted Development · Automation
+**Topics:**
+
+`Mean` · `Median` · `Variance` · `Standard Deviation` · `Correlation` · `Regression` · `Confidence Intervals` · `Hypothesis Testing`
+
+---
+
+## 🤖 Machine Learning & Forecasting
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn" height="45"/>
+</p>
+
+![Prophet](https://img.shields.io/badge/Prophet-Time%20Series%20Forecasting-4285F4?style=for-the-badge)
+
+**Machine Learning**
+
+`Regression` · `Classification` · `Feature Engineering` · `Model Evaluation` · `Scikit-learn`
+
+**Forecasting**
+
+`Time Series Analysis` · `Trend` · `Seasonality` · `Moving Averages` · `Prophet` · `Forecast Evaluation`
+
+---
+
+## 🧠 AI & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" height="45"/>
+</p>
+
+`Prompt Engineering` · `AI-Assisted Data Analysis` · `Claude Code` · `AI-Assisted Development` · `AI Productivity Workflows`
 
 ---
 
@@ -92,25 +134,42 @@ I work with **Python, SQL, Power BI, Excel, Statistics, Machine Learning, and Ti
 
 ## 🛒 E-Commerce Analytics Capstone
 
-**Python | Pandas | SQL | Power BI**
+### Customer Segmentation & Sales Analytics
 
-An end-to-end e-commerce analytics project focused on sales performance, customer behavior, geographic analysis, and customer segmentation.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
 
-### 📌 Key Highlights
+End-to-end e-commerce analytics project using the **Brazilian E-Commerce dataset**.
+
+### 🔍 Business Analysis
+
+- Revenue Analysis
+- Order Analysis
+- Customer Analysis
+- Product Performance
+- Payment Analysis
+- Geographic Analysis
+- Customer Segmentation
+- RFM Analysis
+- Power BI Dashboard
+
+### 📊 Key Highlights
 
 - 📦 **99K+ orders analyzed**
 - 📊 **118K+ records processed**
-- 👥 Customer behavior analysis
+- 👥 **5 customer segments created**
 - 🎯 RFM-based customer segmentation
-- 🏆 5 customer segments
-- 💰 Revenue & sales analysis
-- 💳 Payment method analysis
-- 🌎 Geographic analysis
 - 📈 Interactive Power BI dashboards
+- 🗄️ SQL business analysis
+- 🔄 Power BI-ready datasets
 
 ### 🎯 Customer Segments
 
-`Champions` · `Loyal` · `Regular` · `At Risk` · `Recent`
+🏆 Champions · ❤️ Loyal · 🔄 Regular · ⚠️ At Risk · 🆕 Recent
 
 🔗 **[View Project →](https://github.com/dataanalyst0003-hub/Ecommerce-Analytics-Capstone)**
 
@@ -118,24 +177,40 @@ An end-to-end e-commerce analytics project focused on sales performance, custome
 
 ## 📈 Retail Sales Forecasting
 
-**Python | Pandas | Prophet | Scikit-learn | FastAPI**
+### Sales Forecasting using Python & Prophet
 
-A time-series forecasting project designed to analyze historical retail sales and predict future demand.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prophet-4285F4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
 
-### 📌 Key Highlights
+Built a retail sales forecasting solution using historical sales data.
 
-- 🧹 Data Cleaning
-- 🔍 Exploratory Data Analysis
-- 📅 Daily Sales Aggregation
-- 📈 Trend Analysis
-- 🔄 Seasonality Analysis
-- 📊 Rolling Average Analysis
-- 🚨 Outlier Analysis
-- 🔮 Prophet Forecasting
-- 📏 MAE & RMSE Evaluation
-- 🔁 Time-Series Cross-Validation
-- 🚀 FastAPI Endpoint
-- 📆 **365-Day Forecast**
+### 🔍 Project Includes
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Daily Sales Aggregation
+- Trend Analysis
+- Seasonality Analysis
+- Rolling Averages
+- Outlier Analysis
+- Prophet Forecasting
+- Model Evaluation
+- Time-Series Cross-Validation
+- FastAPI Endpoint
+
+### 🔮 Forecasting
+
+- 📅 Yearly Seasonality
+- 📆 Weekly Seasonality
+- 🔮 **365-Day Forecast**
+- 📏 MAE Evaluation
+- 📏 RMSE Evaluation
+- 📊 Residual Analysis
 
 🔗 **[View Project →](https://github.com/dataanalyst0003-hub/sales-forecasting-dashboard)**
 
@@ -143,18 +218,22 @@ A time-series forecasting project designed to analyze historical retail sales an
 
 ## 🍕 Pizza Sales SQL Analysis
 
-**SQL | MySQL | Business Analysis**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
-Analyzed pizza sales data to identify revenue trends, product performance, customer ordering patterns, and category-level insights.
+SQL-based business analysis of pizza sales data.
 
-### 📌 Key Analysis
+### 🔍 Analysis Includes
 
-- Revenue Analysis
-- Order Analysis
-- Best-Selling Products
-- Category Performance
-- Sales Trends
-- Customer Behavior
+- 💰 Revenue Analysis
+- 📦 Order Analysis
+- 🏆 Best-Selling Products
+- 🍕 Product Performance
+- 📊 Category Performance
+- 📈 Sales Trends
+- 👥 Customer Ordering Behavior
 
 🔗 **[View Project →](https://github.com/dataanalyst0003-hub/pizzas-sales_sql_project)**
 
@@ -162,18 +241,21 @@ Analyzed pizza sales data to identify revenue trends, product performance, custo
 
 ## 🛍️ Zepto SQL Analysis
 
-**SQL | MySQL | Business Analysis**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
-Performed SQL-based retail analysis to understand product performance, pricing, discounts, categories, and business trends.
+Retail product analysis using SQL.
 
-### 📌 Key Analysis
+### 🔍 Analysis Includes
 
-- Product Performance
-- Category Analysis
-- Pricing Analysis
-- Discount Analysis
-- Product Availability
-- Business Insights
+- 📦 Product Performance
+- 🗂️ Category Analysis
+- 💰 Pricing Analysis
+- 🏷️ Discount Analysis
+- 📊 Product Availability
+- 💡 Retail Business Insights
 
 🔗 **[View Project →](https://github.com/dataanalyst0003-hub/ZEPTO_sql_project)**
 
@@ -181,90 +263,109 @@ Performed SQL-based retail analysis to understand product performance, pricing, 
 
 # 📊 Dashboard Portfolio
 
-I build dashboards that transform complex datasets into **clear, interactive and actionable business insights**.
+I build interactive dashboards that convert raw data into **clear, actionable business insights**.
 
-### 🛒 E-Commerce Dashboard
+### 🛒 E-Commerce Analytics Dashboard
 
-**KPIs:** Revenue · Orders · Customers · AOV
-
-**Analysis:** State · City · Payment Type · Order Status · Monthly Revenue
+📌 Revenue KPIs  
+📌 Total Orders  
+📌 Total Customers  
+📌 Average Order Value  
+📌 Revenue by State  
+📌 Revenue by City  
+📌 Payment Analysis  
+📌 Order Status  
+📌 Monthly Revenue Trends
 
 ### 👥 Customer Segmentation Dashboard
 
-**KPIs:** Customer Value · Recency · Frequency · Revenue
-
-**Analysis:** Customer Segments · Segment Contribution · Top Customers · Customer Distribution
+📌 Customer Segments  
+📌 Customer Revenue  
+📌 Average Recency  
+📌 Average Frequency  
+📌 Customer Value  
+📌 Segment Contribution  
+📌 Top Customers  
+📌 Customer Distribution
 
 ### 🌎 Geography Dashboard
 
-**Analysis:** Revenue by State · Revenue by City · Orders by State · Customers by State · Revenue per Customer
+📌 Revenue by State  
+📌 Revenue by City  
+📌 Orders by State  
+📌 Customer Distribution  
+📌 Revenue per Customer  
+📌 Top Performing States
 
 ### 📗 Excel Sales Dashboard
 
-**Analysis:** Sales KPIs · Revenue · Products · Regions · Salespersons · Monthly Trends
+📌 Sales KPIs  
+📌 Revenue Analysis  
+📌 Product Analysis  
+📌 Regional Analysis  
+📌 Salesperson Performance  
+📌 Monthly Trends
 
 ---
 
-# 🏆 Certifications
+# 🏆 Certifications & Job Simulations
 
 ### 🎓 Tata Group
-
 **GenAI Powered Data Analytics Job Simulation**
 
-`EDA` · `Risk Profiling` · `AI Analytics` · `Data Storytelling`
+`EDA` · `Risk Profiling` · `AI Analytics` · `Data Storytelling` · `Collections Strategy`
 
 ### 🎓 Deloitte
-
 **Data Analytics Job Simulation**
 
-`Data Analysis` · `Data Interpretation` · `Forensic Technology`
+`Data Analysis` · `Data Interpretation` · `Forensic Technology` · `Business Analytics`
 
 ### 🎓 Tata Group
-
 **Data Visualisation: Empowering Business with Effective Insights**
 
-`Data Visualization` · `Business Scenarios` · `Data Storytelling`
+`Business Scenarios` · `Data Visualization` · `Data Storytelling` · `Communicating Insights`
 
 ### 🎓 Quantium
-
 **Data Analytics Job Simulation**
 
-`Data Preparation` · `Customer Analytics` · `Experimentation` · `Commercial Analytics`
+`Data Preparation` · `Customer Analytics` · `Experimentation` · `Uplift Testing` · `Commercial Analytics`
 
 ---
 
 # 📚 Currently Learning
 
-| Area | Focus |
-|------|-------|
-| 📊 Statistics | Probability · Hypothesis Testing · Correlation · Regression |
-| 🤖 Machine Learning | Regression · Classification · Feature Engineering · Model Evaluation |
-| 🔮 Forecasting | Time Series · Trend · Seasonality · Prophet |
-| 🧠 Prompt Engineering | Prompt Design · Structured Prompting · AI Analytics |
-| 💻 Claude Code | AI-Assisted Coding · Debugging · Automation |
-| 💼 Business Analysis | Business Problems · Requirements · Insights · Decision Making |
+| 📚 Area | 🔍 Focus |
+|---|---|
+| 📊 **Advanced Statistics** | Probability · Hypothesis Testing · Correlation · Regression |
+| 🤖 **Machine Learning** | Regression · Classification · Feature Engineering · Model Evaluation |
+| 🔮 **Time Series Forecasting** | Trend · Seasonality · Moving Averages · Prophet |
+| 🧠 **Prompt Engineering** | Prompt Design · Structured Prompting · AI-Assisted Analytics |
+| 💻 **Claude Code** | AI-Assisted Coding · Debugging · Automation |
+| 💼 **Business Analysis** | Business Problems · Requirements · Insights · Decision Making |
 
 ---
 
-# 🔄 My Analytics Approach
+# 🔄 My Analytics Workflow
 
 ```text
-                BUSINESS PROBLEM
-                       ↓
-                DATA COLLECTION
-                       ↓
-                  DATA CLEANING
-                       ↓
-                       EDA
-                       ↓
-                  SQL ANALYSIS
-                       ↓
-              STATISTICAL ANALYSIS
-                       ↓
-             VISUALIZATION / BI
-                       ↓
-                DASHBOARD
-                       ↓
-               BUSINESS INSIGHTS
-                       ↓
-             DECISION SUPPORT
+             💼 Business Problem
+                     ↓
+              📋 Requirements
+                     ↓
+               📥 Data Collection
+                     ↓
+                🧹 Data Cleaning
+                     ↓
+              🔍 Exploratory Analysis
+                     ↓
+                 🗄️ SQL Analysis
+                     ↓
+              📐 Statistical Analysis
+                     ↓
+             📊 Data Visualization
+                     ↓
+              📈 Dashboard / Model
+                     ↓
+              💡 Business Insights
+                     ↓
+          🎯 Data-Driven Decisions
